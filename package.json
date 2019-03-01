@@ -1,0 +1,14 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "google map for fin shortest path of locations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mayur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
